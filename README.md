@@ -1,2 +1,2 @@
-# straming-landin-page
+# straming-landing-page
 A Netflix homepage clone using HTML/CSS.
