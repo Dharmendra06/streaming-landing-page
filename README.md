@@ -1,2 +1,2 @@
 # streaming-landing-page
-A netflix homepage clone using HTML/CSS.
+A metflix homepage clone using HTML/CSS.
